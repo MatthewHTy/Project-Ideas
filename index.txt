@@ -1,2 +1,13 @@
-Project-Ideas 
+Project-Ideas
 
+5 Compelling Projects
+Must contain: Database, Back-End, Front-End, with at least 3-5 Interactive  Web Form Features
+For ex: Data Visualizations, Searches, Maps, or other Ineractive Elements
+
+Hobbies/Interests:
+NBA 
+Fishing
+Working Out
+Music
+
+Problems to Solve:
